@@ -31,7 +31,7 @@ This project utilizes a dataset of credit card transactions, identifying key cha
 
 6. **🧠 Machine Learning Models**  
    - Split data into training and testing sets.
-   - Trained and tuned multiple models, including Logistic Regression, Random Forest, Gradient Boosting, SVM, and Neural Networks.
+   - Trained and tuned with   Random Forest
    - Employed cross-validation and grid search to enhance model performance.
 
 7. **📈 Model Evaluation & Visualization**  
@@ -64,7 +64,7 @@ This project utilizes a dataset of credit card transactions, identifying key cha
    - Confusion matrices for each model, showing how well each model performs in fraud vs. legitimate classifications.
 
 ### 7. **📈 AUC-ROC Curve for Model Comparison**  
-   - ROC curves for Logistic Regression, Random Forest, Gradient Boosting, SVM, and Neural Network models, displaying model quality.
+   - ROC curves for Random Forest displaying model quality.
 
 ### 8. **📉 Precision-Recall Curves**  
    - Precision-Recall curves highlighting trade-offs between precision and recall for each model.
@@ -73,26 +73,14 @@ This project utilizes a dataset of credit card transactions, identifying key cha
    - Used SHAP (SHapley Additive exPlanations) to visualize the most impactful features on model predictions.
 
 ### 10. **📉 Feature Importance Plot for Tree Models**  
-   - Feature importance visualization from the Random Forest and Gradient Boosting models, showing which variables drive the classification.
+   - Feature importance visualization from the Random Forest  showing which variables drive the classification.
 
 ---
 
 ## ⚙️ Machine Learning Models and Techniques
 
-1. **🔍 Logistic Regression**
-   - Provided baseline metrics and probability-based output.
-
-2. **🌲 Random Forest**  
+ **🌲 Random Forest**  
    - Ensemble model capturing complex patterns and interactions.
-
-3. **🚀 Gradient Boosting**  
-   - Boosted trees for improved performance in classifying minority fraud cases.
-
-4. **🕹️ Support Vector Machine (SVM)**  
-   - Classified using hyperplanes with an emphasis on maximizing class separation.
-
-5. **🧠 Neural Network**  
-   - Deep learning model for complex fraud pattern recognition.
 
 ---
 
