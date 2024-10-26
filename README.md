@@ -57,9 +57,6 @@ This project utilizes a dataset of credit card transactions, identifying key cha
 ### 4. **🌐 Correlation Heatmap**  
    - Heatmap visualizing feature correlations, helping to identify variables related to fraud.(Not included as the numbers were not accurate)
 
-### 5. **💹 PCA for Dimensionality Reduction**  
-   - PCA visualization to simplify feature space, helping to distinguish fraud from legitimate transactions.
-
 ### 6. **📊 Model Confusion Matrices**  
    - Confusion matrices for each model, showing how well each model performs in fraud vs. legitimate classifications.
 
